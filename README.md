@@ -39,3 +39,6 @@ Criar um **sistema de gerenciamento de loja**, organizado em pacotes, permitindo
 - Encapsulamento aplicado em atributos não públicos.  
 - Uso de `ArrayList` para gerenciamento dinâmico. 
 
+---
+
+💡 *Se você gostou deste projeto, deixe uma ⭐ no repositório!*
